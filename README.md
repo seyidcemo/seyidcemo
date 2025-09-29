@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seyidcemo&label=Profile%20views&color=0e75b6&style=flat" alt="seyidcemo" /> </p>
 
-- 🔭 I’m currently working on [EduBud (My Final Project)](https://github.com/seyidcemo/EduBud-Online-Social-App)
+- 🔭 I’m currently working on Business Analysis and Project Management
 
-- 🌱 I’m currently learning **Data Structures and Algorithms Interview Questions**
+- 🌱 I’m currently learning **Jira, Power BI, Emacs and Linux Fundamentals**
 
 - 📝 I regularly write articles on [https://www.atarita.com/yazar/seyidcem-ozturk/](https://www.atarita.com/yazar/seyidcem-ozturk/)
 
